@@ -1,4 +1,4 @@
-# English Text Summarization
+# English Abstractive-Text Summarization
 
 ## Overview
 This project aims to summarize English text using a simple T5 model. The model takes input text and generates concise summaries.
